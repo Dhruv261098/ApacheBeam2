@@ -1,0 +1,17 @@
+org/loony/dataflow/complete/game/StatefulTeamScoreTest.class
+org/loony/dataflow/complete/game/LeaderBoardTest$TestUser.class
+org/loony/dataflow/complete/game/UserScoreTest.class
+org/loony/dataflow/DebuggingWordCountTest.class
+org/loony/dataflow/complete/game/LeaderBoardTest.class
+org/loony/dataflow/complete/game/HourlyTeamScoreTest.class
+org/loony/dataflow/ReadAvroTest.class
+org/loony/dataflow/MinimalWordCountTest.class
+org/loony/dataflow/subprocess/ExampleEchoPipelineTest$2.class
+org/loony/dataflow/WordCountTest.class
+org/loony/dataflow/complete/game/StatefulTeamScoreTest$TestUser.class
+org/loony/dataflow/subprocess/ExampleEchoPipelineTest$1.class
+org/loony/dataflow/subprocess/ExampleEchoPipelineTest$EchoInputDoFn.class
+org/loony/dataflow/ExtractDetailsTest.class
+org/loony/dataflow/complete/game/GameStatsTest.class
+org/loony/dataflow/subprocess/ExampleEchoPipelineTest.class
+org/loony/dataflow/PipelineTestUtils.class
